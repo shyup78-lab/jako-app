@@ -1,0 +1,16 @@
+{
+  "name": "일한 실시간 통역",
+  "short_name": "일한통역",
+  "description": "일본어 음성을 실시간으로 한국어로 번역",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#EEF1F4",
+  "theme_color": "#24476B",
+  "lang": "ko",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
